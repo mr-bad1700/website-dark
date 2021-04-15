@@ -199,8 +199,8 @@ ol {
     font-size: 24px;
     right: 30px;
     width: 50px;
-    background-color: #fb397d;
-    color: #fff;
+    background-color: #000001;
+    color: #000001;
     text-align: center;
     height: 50px;
     line-height: 50px;
@@ -221,7 +221,7 @@ li {
 }
 
 p {
-    color: #726a84;
+    color: #000001;
     font-size: 16px;
     font-weight: 300;
     margin-top: 0;
@@ -233,7 +233,7 @@ p {
 
 .section-heading > h2 {
     font-weight: 300;
-    color: #5b32b4;
+    color: #000001;
     font-size: 48px;
     margin: 0;
 }
@@ -247,7 +247,7 @@ p {
 .line-shape {
     width: 80px;
     height: 2px;
-    background-color: #fb397d;
+    background-color: #000001;
     margin-top: 15px;
 }
 
@@ -272,7 +272,7 @@ p {
 
 #preloader {
     overflow: hidden;
-    background-color: #fff;
+    background-color: #000001;
     height: 100%;
     left: 0;
     position: fixed;
@@ -285,7 +285,7 @@ p {
     -webkit-animation: 2000ms linear 0s normal none infinite running colorlib-load;
     animation: 2000ms linear 0s normal none infinite running colorlib-load;
     background: transparent none repeat scroll 0 0;
-    border-color: #dddddd #dddddd #fb397d;
+    border-color: #000001 #000001 #000001;
     border-radius: 50%;
     border-style: solid;
     border-width: 2px;
@@ -335,7 +335,7 @@ p {
 .menu_area .navbar-brand {
     font-size: 72px;
     font-weight: 700;
-    color: #fff;
+    color: #000001;
     margin: 0;
     line-height: 1;
     padding: 0;
@@ -344,7 +344,7 @@ p {
 
 .menu_area .navbar-brand:hover,
 .menu_area .navbar-brand:focus {
-    color: #fff;
+    color: #000001;
 }
 
 
@@ -367,7 +367,7 @@ p {
 
 
 .menu_area nav ul li > a:hover {
-    color: #fb397d;
+    color: #000001;
 }
 
 .sing-up-button {
@@ -375,7 +375,7 @@ p {
 }
 
 .sing-up-button > a {
-    color: #fff;
+    color: #000001;
     font-weight: 500;
     display: inline-block;
     border: 2px solid #a883e9;
